@@ -1,3 +1,4 @@
+
 <!-- esto es un comentario-->
 # PRÁCTICA 3: APLICACIÓN EN HASKELL
 <br>
@@ -224,7 +225,7 @@ main = do
 Actualizamos la prueba/Spec.hs de la anterior manera, para comprobar que la aplicación funciona. 
 <br>
 
-**img**
+![im1](./todo/img/imgs10.png)
 
 Con este comando nuevamente vemos como Stack completó las dos acciones necesarias de compilar el proyecto y ejecutar la suite de pruebas. Además viendo el mensaje "editIndex worked." en la terminal, sabemoss que la función editIndex se comportó exactamente como esperabamos para ese caso de prueba.<br><br><br>
 
