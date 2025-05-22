@@ -225,7 +225,7 @@ main = do
 Actualizamos la prueba/Spec.hs de la anterior manera, para comprobar que la aplicación funciona. 
 <br>
 
-**img**
+![im1](./todo/img/imgs10.png)
 
 Con este comando nuevamente vemos como Stack completó las dos acciones necesarias de compilar el proyecto y ejecutar la suite de pruebas. Además viendo el mensaje "editIndex worked." en la terminal, sabemoss que la función editIndex se comportó exactamente como esperabamos para ese caso de prueba.<br><br><br>
 
@@ -277,4 +277,3 @@ Dentro de Lib.hs, también tienes funciones que realizan operaciones en la lista
 **Pruebas Unitarias (test/Spec.hs)**
 
 El archivo test/Spec.hs existe para garantizar la calidad y corrección del código, ya que al ejecutar stack test, este archivo se compila y ejecuta.
-
